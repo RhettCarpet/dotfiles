@@ -1,5 +1,4 @@
 {
-  "always_show_minimap_viewport": false,
   "detect_indentation": false,
   "draw_white_space": true,
   "ensure_newline_at_eof_on_save": true,
@@ -36,5 +35,5 @@
   "trim_automatic_white_space": true,
   "trim_trailing_white_space_on_save": true,
   "use_tab_stops": true,
-  "wordWrap": false
+  "word_wrap": false
 }
